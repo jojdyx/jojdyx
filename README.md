@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **JavaScript, React, Node.js**
 
-- 👨‍💻 All of my projects are available at [jolinjiang.netlify.app](jolinjiang.netlify.app)
+- 👨‍💻 All of my projects are available at [https://jolinjiang.netlify.app](https://jolinjiang.netlify.app)
 
 - 📫 Reach me at **jojdyx@gmail.com**
 
